@@ -1,4 +1,4 @@
-# ProyectoIntegradorAn-lisisDeDatos
+# ProyectoIntegradorAnalisisDeDatos
 Proyecto Integrador de la Materia de Análisis de Datos. Integrantes: Andrés García, Fabricio Mora, Marco Ricaurte
 Aquí se encuentran los documentos respectivos de la Consigna presentada por el docente:
 1. Documentacion de Instalacion y Ejecucion.
