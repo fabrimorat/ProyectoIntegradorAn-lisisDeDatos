@@ -5,3 +5,4 @@ Aquí se encuentran los documentos respectivos de la Consigna presentada por el 
 2. Carpeta comprimida en zip con la conexión de Python y MySQL.
 3. Diccionario de Datos.
 4. Análisis de la información mediante Power BI.
+5. Script de Base de Datos
